@@ -141,7 +141,7 @@ const Home = () => {
           </p>
         </div>
       )}
-      <div className="absolute bottom-0 left-0 w-full">
+     <div className="w-full mt-auto">
         <Footer />
       </div>
     </div>
