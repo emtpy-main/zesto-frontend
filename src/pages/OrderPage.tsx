@@ -178,12 +178,9 @@ const OrderPage = () => {
             </div>
           </div>
 
-          {/* ======================================= */}
-          {/* RIGHT COLUMN: Order Details (Col 8-12)  */}
-          {/* ======================================= */}
+
           <div className="lg:col-span-5 space-y-6">
-            
-            {/* Items List - Changed from rounded-3xl to rounded-xl */}
+             
             <div className="rounded-xl bg-white p-6 shadow-sm border border-gray-100">
               <div className="flex items-center gap-2 mb-4 pb-4 border-b border-gray-100">
                 <BiReceipt className="text-xl text-[#e23744]" />
