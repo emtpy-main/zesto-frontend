@@ -229,7 +229,9 @@ const OrderRow = ({
           <BiChevronRight className="text-lg ml-0.5 transition-transform group-hover:translate-x-1" />
         </div>
       </div>
-      <Footer/>
+      <div className="w-full mt-auto">
+        <Footer />
+      </div>
     </div>
   );
 };

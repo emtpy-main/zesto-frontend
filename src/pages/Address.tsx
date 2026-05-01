@@ -331,7 +331,9 @@ const AddAddressPage = () => {
 
     </div>
   </div>
-  <Footer/>
+   <div className="w-full mt-auto">
+        <Footer />
+      </div>
 </div>
   );
 };
