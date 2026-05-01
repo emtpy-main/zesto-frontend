@@ -273,7 +273,7 @@ const OrderPage = () => {
           </div>
         </div>
       </div>
-      <div className="w-full mt-auto">
+       <div className="w-full mt-auto relative z-10">
         <Footer />
       </div>
     </div>

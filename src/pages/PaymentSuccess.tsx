@@ -62,7 +62,7 @@ const PaymentSuccess = () => {
         </div>
 
       </div>
-      <div className="absolute bottom-0 left-0 w-full">
+      <div className="w-full mt-auto relative z-10">
         <Footer />
       </div>
     </div>

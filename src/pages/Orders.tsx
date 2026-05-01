@@ -229,7 +229,7 @@ const OrderRow = ({
           <BiChevronRight className="text-lg ml-0.5 transition-transform group-hover:translate-x-1" />
         </div>
       </div>
-      <div className="w-full mt-auto">
+      <div className="w-full mt-auto relative z-10">
         <Footer />
       </div>
     </div>
